@@ -361,4 +361,8 @@ MIT License - see [LICENSE](LICENSE) file
 
 **Built with ❤️ using Python and cutting-edge AI technologies**
 
-*Last Updated: January 2025*
+*Last Updated: January 2025*<img width="1852" height="885" alt="Terminal Output" src="https://github.com/user-attachments/assets/b033f165-2dbb-40ba-832f-a865abfdec74" />
+<img width="1893" height="910" alt="Terminal output 2" src="https://github.com/user-attachments/assets/5404734d-0936-4831-b8e7-ddb81e52155b" />
+<img width="251" height="619" alt="Screenshot 2026-03-17 050812" src="https://github.com/user-attachments/assets/9457081c-cb66-4693-8c44-c96a1e3ea6c4" />
+<img width="1167" height="498" alt="Screenshot 2026-03-17 050741" src="https://github.com/user-attachments/assets/c90da89f-29c2-4957-82ef-29b6062cdf8f" />
+
